@@ -1,0 +1,9 @@
+http://172.26.165.168/,综测前端
+http://172.26.164.154/,综测数据库
+http://172.26.153.143/,开发前端
+http://10.223.196.50/,业测前端
+http://172.26.165.170:8001/receive/SE-EGT_RECEIVE/RECEIVE_EGT_015,-- 经销商维修信息接口
+http://172.26.165.170:8001/receive/SE-EGT_RECEIVE/RECEIVE_EGT_018,-- 保修鉴定单接收接口
+http://172.26.165.170:8001/receive/SE-EGT_RECEIVE/RECEIVE_EGT_020,-- 接收五家终端传来的旧件入库
+http://172.26.165.170:8001/receive/SE-EGT_RECEIVE/RECEIVE_EGT_019,-- 接收五家终端传来的旧件出库
+http://172.26.165.170:8001/receive/SE-EGT_RECEIVE/RECEIVE_EGT_021,-- 召回专案进度返回接收接口
